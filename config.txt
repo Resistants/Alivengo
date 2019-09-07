@@ -1,0 +1,6 @@
+owner=512738128382132225
+prefix=A
+game=Aliven | Aplay
+stayinchannel=true
+songinstatus=false
+token=NjIwMDExMjI5MzAxNDQwNTE1.XXQkog.DnXlijFNA3PJ7Lvua-UjC0x09B8
